@@ -1,0 +1,59 @@
+
+
+package com.leecottrell.simpleclasstest;
+
+
+
+
+
+
+/**
+*
+* @maria 
+*/
+public class SimpleClasstestcase{
+public int addEm (int a , int b) {
+
+return a+b;
+}
+
+public int subEm (int a , int b) {
+
+return a-b;
+}
+
+public int divEm (int a , int b) {
+int ans =a/b;
+return ans;
+}
+
+}
+
+package com.leecottrell.simpleclasstest;
+
+
+
+
+
+
+/**
+*
+* @maria 
+*/
+public class SimpleClasstestcase{
+public int addEm (int a , int b) {
+
+return a+b;
+}
+
+public int subEm (int a , int b) {
+
+return a-b;
+}
+
+public int divEm (int a , int b) {
+int ans =a/b;
+return ans;
+}
+
+}
